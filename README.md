@@ -18,3 +18,4 @@ The captured voice is processed to clean the signal and extract features such as
 Using the extracted features, the system classifies the speaker's gender (Male/Female).
 
 ## Output
+<img width="446" alt="speech" src="https://github.com/user-attachments/assets/340af44f-c190-475e-97d5-148901329af9">
